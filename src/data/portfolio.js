@@ -5,7 +5,7 @@ export const portfolio = {
   intro:
     'I build secure, scalable, and user-focused web applications with .NET, C#, SQL, and React. My work is centered around clean backend architecture, practical frontend development, and reliable delivery for business applications.',
   summary:
-    'Result-oriented .NET Full Stack Developer with 2.3 years of experience designing, developing, testing, and deploying enterprise web applications. Strong hands-on expertise in C#, REST APIs, SQL Server, MySQL, MVC, ReactJS basics, Docker, and .NET Core 8.',
+    'Result-oriented .NET Full Stack Developer with 3 years of experience designing, developing, testing, and deploying enterprise web applications. Strong hands-on expertise in C#, REST APIs, SQL Server, MySQL, MVC, ReactJS basics, Docker, and .NET Core 8.',
   contact: {
     email: 'patilparesh020@gmail.com',
     phone: '+91 7972866545',
