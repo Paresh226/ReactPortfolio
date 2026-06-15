@@ -13,7 +13,7 @@ export const portfolio = {
     address: 'Chinoda, Tal. Taloda, Dist. Nandurbar - 425413',
   },
   stats: [
-    { label: 'Experience', value: '2.3+ Years' },
+    { label: 'Experience', value: '3 Years' },
     { label: 'Core Stack', value: '.NET + React' },
     { label: 'Highest Education', value: 'MCA 89.64%' },
     { label: 'Focus', value: 'Secure Web Apps' },
